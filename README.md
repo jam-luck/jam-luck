@@ -4,7 +4,7 @@
 2021   
 [Samsung Software Academy For Youth 5th in Seoul][SSAFY]  
 2020  
-[Open Source-Based "ELK" Tool Linked Dashboard Customization][project1] (2020.03 ~ 2020.12) 
+[Open Source-Based "ELK" Tool Linked Dashboard Customization][project1] (2020.03 ~ 2020.12)   
 Student Intern - Bridge T Solution (2020.07.01 ~ 2020.08.26)  
 Capstone Design Project with [SSIS] (2020.03 ~ 2020.07) - Encouragement Award   
 2019  
