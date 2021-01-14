@@ -1,4 +1,4 @@
-👋 hello~ my name is Jaemoon Yoon! 
+👋 hello~ I'm Jaemoon Yoon! 
 
 ### Histoty
 2021   
