@@ -6,7 +6,7 @@
 2020  
 A Study on the IoT Integrated Management and Data Visualization
 Platform for User-Customized Flexible Visualization -  
-korea multimedia society fall Academic conference   
+[korea multimedia society fall Academic conference][kmms]   
 [Open Source-Based "ELK" Tool Linked Dashboard Customization][project1] (2020.03 ~ 2020.12)   
 Student Intern - Bridge T Solution (2020.07.01 ~ 2020.08.26)  
 Capstone Design Project with [SSIS] (2020.03 ~ 2020.07) - Encouragement Award   
@@ -20,6 +20,7 @@ Dongguk University (Computer engineering) (2014.03 ~ 2021.02)
 
 
 [SSAFY]: <https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp>
+[kmms]: <http://multi02.thesome.com/>
 [project1]: <https://github.com/CSID-DGU/2020-1-CECD3-KingBaDa-2>
 [Hack]:<http://www.swsecurecoding.kr>
 [SSIS]:<http://www.ssis.or.kr/index.do>
