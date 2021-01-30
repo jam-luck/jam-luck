@@ -1,6 +1,6 @@
 👋 hello~ I'm Jaemoon Yoon! 
 
-## Histoty
+## Histoty 
 ### 2021   
 [Samsung Software Academy For Youth 5th in Seoul][SSAFY]  
 ### 2020  
