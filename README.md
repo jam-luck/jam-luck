@@ -1,4 +1,6 @@
-👋 hello~ I'm Jaemoon Yoon!
+👋 hello~ I'm Jaemoon Yoon!!
+
+
 
 <p>
   <p>
@@ -19,6 +21,8 @@
     <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
   </p>
 </p>
+
+![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/37682970/112002389-2db82c80-8b63-11eb-80f4-b6e8bdde8ca1.png)
 
 ## Histoty 
 ### 2021   
