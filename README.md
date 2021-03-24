@@ -27,7 +27,8 @@
 ## Histoty 
 ### 2021   
 [Samsung Software Academy For Youth 5th in Seoul][SSAFY]  
-B.A Computer Science & Engineering, Dongguk University
+B.A Computer Science & Engineering, Dongguk University  
+AWS Certified Cloud Practitioner  
 
 ### 2020  
 A Study on the IoT Integrated Management and Data Visualization
