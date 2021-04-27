@@ -1,6 +1,6 @@
 👋 hello~ I'm Jaemoon Yoon!!
 
-
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dss1111)](https://solved.ac/dss1111)
 
 <p>
   <p>
