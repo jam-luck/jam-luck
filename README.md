@@ -26,7 +26,7 @@
 
 ## Histoty 
 ### 2021   
-[Samsung Software Academy For Youth 5th in Seoul][SSAFY]  (2021.01.05 ~ 2021.07.08)
+[Samsung Software Academy For Youth 5th in Seoul][SSAFY] (2021.01.05 ~ 2021.07.08)  
 B.A Computer Science & Engineering, Dongguk University  
 AWS Certified Cloud Practitioner  
 GSSHOP Intern (2021.7.12 ~ 2021.7.30)
