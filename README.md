@@ -1,7 +1,5 @@
 👋 hello~ I'm Jaemoon Yoon!!
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dss1111)](https://solved.ac/dss1111)
-
 <p>
   <p>
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -24,25 +22,25 @@
 
 ![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/37682970/112002389-2db82c80-8b63-11eb-80f4-b6e8bdde8ca1.png)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dss1111)](https://solved.ac/dss1111)
+
 ## Histoty 
 ### 2021   
-[Samsung Software Academy For Youth 5th in Seoul][SSAFY] (2021.01.05 ~ 2021.07.08)  
-B.A Computer Science & Engineering, Dongguk University  
-AWS Certified Cloud Practitioner  
-GSSHOP Intern (2021.7.12 ~ 2021.7.30)
+[삼성청년소프트웨어 아카데미 5기][SSAFY] (2021.01.05 ~ 2021.07.08)  
+동국대학교 컴퓨터공학전공 졸업  
+AWS Certified Cloud Practitioner 취득   
+GSSHOP 인턴 (2021.7.12 ~ 2021.7.30)
 
 ### 2020  
-A Study on the IoT Integrated Management and Data Visualization
-Platform for User-Customized Flexible Visualization -  
-[korea multimedia society fall Academic conference][kmms] (2020.11.19 ~ 2020.11.20)   
-[Open Source-Based "ELK" Tool Linked Dashboard Customization][project1] (2020.03 ~ 2020.12)   
-Student Intern - Bridge T Solution (2020.07.01 ~ 2020.08.26)  
-Capstone Design Project with [SSIS] (2020.03 ~ 2020.07) - Encouragement Award   
+사용자별 유연한 시각화가 가능한 IoT 통합관리 및 데이터 시각화 플랫폼에 대한 연구 - [한국멀티미디어학회 추계학술대회][kmms] (2020.11.19 ~ 2020.11.20)   
+[오픈소스 기반 "ELK" Tool을 연계 대시보드 사용자 맞춤형 시각화][project1] (2020.03 ~ 2020.12)   
+Bridge T Solution 학생 인턴  (2020.07.01 ~ 2020.08.26)  
+캡스톤디자인 프로젝트 [SSIS] (2020.03 ~ 2020.07) - 장려상   
 ### 2019  
-[Software Secure coding Hackathon 6th][Hack] (2019.08.22 ~ 2019.08.23) - [KISA] Award  
-CoCoLink - sw developer (2019.01.18 ~ 2019.07.12)  
+[제6회 소프트웨어 개발보안 해커톤][Hack] (2019.08.22 ~ 2019.08.23) - [KISA]상  
+코코링크 - SW개발 (2019.01.18 ~ 2019.07.12)  
 ### 2018  
-Capstone Design Project with Emart24 (2018.09 ~ 2018.12) - Encouragement Award  
+캡스톤디자인 프로젝트 Emart24 (2018.09 ~ 2018.12) - 장려상  
 
 
 [SSAFY]: <https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp>
