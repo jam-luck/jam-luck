@@ -23,7 +23,9 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dss1111)](https://solved.ac/dss1111)
 
-## Histoty 
+## Histoty
+### 2022
+GSRetail 상품Product팀
 ### 2021   
 [삼성청년소프트웨어 아카데미 5기][SSAFY] (2021.01.05 ~ 2021.07.08)  
 동국대학교 컴퓨터공학전공 졸업  
