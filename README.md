@@ -20,10 +20,13 @@
 </p>
 
 ![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/37682970/112002389-2db82c80-8b63-11eb-80f4-b6e8bdde8ca1.png)
+<img width="98" alt="image" src="https://user-images.githubusercontent.com/37682970/230894840-d269321b-7a5e-4e7d-b520-94872106d117.png">
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dss1111)](https://solved.ac/dss1111)
 
 ## Histoty
+### 2023
+AWS Certified Cloud Solution Architect - Associate 취득  
 ### 2022
 GSRetail 상품Product팀
 ### 2021   
